@@ -8,5 +8,7 @@ Run “pip install nltk” by navigating to folder where pip.exe exists (../Pyth
 Run “pip install xlrd” by navigating to folder where pip.exe exists (../Python/Script)
 3.	Now run “POS-tagger.py”. Line 17-28 are the 4 file names, comment all but one for the ones you need to extract the features.
 
+See Sample outcome of the run for iphone case reviews:
+
 ![See Sample outcome of the run](https://raw.githubusercontent.com/surajsharmaa/ReviewsSummarization/master/FinalReport-SurajSharma/Code_And_Data/sample-output-cmd.PNG)
 
